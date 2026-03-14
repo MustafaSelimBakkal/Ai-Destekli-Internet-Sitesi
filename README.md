@@ -2,6 +2,10 @@
 
 Bu proje, kullanicilarin cizimlerini sergileyebilecegi, yorum/begeni alabilecegi ve AI asistandan yardim alabilecegi bir MVP'dir.
 
+## Ekran Goruntusu
+
+![Mustafa Art Hub Ana Sayfa](./screenshots/homepage.png)
+
 ## Neler var?
 
 - E-posta/sifre ile kayit ve giris
